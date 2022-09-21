@@ -13,6 +13,7 @@ class HomeController extends AbstractController
      */
     public function index(): JsonResponse
     {
+        irbhoierhoivrjpihbropjn
         return $this->json([
             'message' => 'Welcome to your new controller!',
             'path' => 'src/Controller/HomeController.php',

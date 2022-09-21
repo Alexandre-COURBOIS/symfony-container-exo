@@ -1,0 +1,8 @@
+name: GitHub Actions test
+on: [push]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: clever deploy
+      - run: echo "🍏 This job's status is ${{ job.status }}."

@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "app_id": "app_585f7b9e-3cdd-44a0-afa1-238c26c04ccb",
+      "org_id": "user_df057d3b-436d-47a5-9522-9875f2d07588",
+      "deploy_url": "https://push-n2-par-clevercloud-customers.services.clever-cloud.com/app_585f7b9e-3cdd-44a0-afa1-238c26c04ccb.git",
+      "name": "symfony-container-manual",
+      "alias": "symfony-container-manual"
+    }
+  ]
+}
